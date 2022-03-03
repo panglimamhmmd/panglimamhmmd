@@ -1,14 +1,14 @@
 ### Hi! 👋 I'm Ipang.
 
 An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed PHP and make it the main language in creating a project.
-
-I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
+<!-- 
+I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service. -->
 
 - 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
+- 🌱 I’m currently learning about server and datebase for back-end apps
 - 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: dimas@dicoding.com
-- ⚡ Fun fact: Father of a daughter
+- 📫 How to reach me: yahyakoto@gmail.com
+- ⚡ Fun fact: Panglima meaning Commander in English
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -28,7 +28,7 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
-- <a href="https://dmds.dev">dmds.dev</a>
-- dimas@dicoding.com
-- <a href="https://twitter/dimsmds">Twitter</a>
+<!-- - <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a> -->
+<!-- - <a href="https://dmds.dev">dmds.dev</a> -->
+- yahyakoto@dicoding.com
+- <a href="https://twitter/panglimamhmmd">Instagram</a>
