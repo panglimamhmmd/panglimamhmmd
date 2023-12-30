@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Ipang.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed PHP and make it the main language in creating a project.
+An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed Javascript and make it the main language in creating a project.
 <!-- 
 I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service. -->
 
