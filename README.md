@@ -31,4 +31,4 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
 <!-- - <a href="https://linkedin.com/in/panglimamhmmd/">LinkedIn</a> -->
 <!-- - <a href="https://dmds.dev">dmds.dev</a> -->
 - yahyakoto@dicoding.com
-- <a href="https://twitter/panglimamhmmd">Instagram</a>
+- <a href="https://instagram/panglimamhmmd">Instagram</a>
